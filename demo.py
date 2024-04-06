@@ -1,0 +1,7 @@
+print("Hello Everone!!")
+print ('Hello')
+print ('Hello')
+print ('Hello')
+print ('Hello')
+print ('Hello')
+print ('Hello')
